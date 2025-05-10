@@ -1,0 +1,258 @@
+@media (max-width: 768px) {
+    .head {
+        margin-left: 260px;
+    }
+
+    /* slide 1 */
+    .slide1 {
+        flex-direction: column;
+        margin-left: 110px;
+    }
+
+    .wrapper1 {
+        width: 800px;
+    }
+
+    .block-text-slide1 {
+        margin-top: -30px;
+    }
+
+    /* slide 2 */
+    .slide2 {
+        margin-left: 100px;
+        flex-direction: column;
+    }
+
+    .wrapper2 {
+        display: none;
+    }
+
+    /* slide 3 */
+    .slide3 {
+        flex-direction: column-reverse;
+        margin-left: 100px;
+    }
+
+    .block-slide3 {
+        display: flex;
+    }
+
+    .block1-text1-slide3 p:nth-of-type(2) {
+        width: 420px;
+    }
+
+    .block2-text1-slide3 ul {
+        width: 400px;
+    }
+
+    .slide3-line1 {
+        height: 235px;
+    }
+
+    .wrapper3 {
+        width: 800px;
+        height: 520px;
+        margin-bottom: -60px;
+        margin-top: 30px;
+    }
+
+    /* slide 4 */
+    .slide4 {
+        margin-left: 30px;
+    }
+
+    .wrapper4 {
+        display: none;
+    }
+
+    .block2-text2-slide4 p:nth-of-type(2) {
+        width: 300px;
+    }
+
+    /* slide 5 */
+    .slide5 {
+        margin-left: 100px;
+    }
+
+    /* slide 6 */
+    .slide6 {
+        margin-top: -30px;
+        margin-left: 20px;
+    }
+
+    .wrapper6 {
+        display: none;
+    }
+
+    /* slide 7 */
+    .slide7 {
+        margin-left: 150px;
+    }
+
+    .block1-text-slide7 {
+        width: 600px;
+    }
+
+    .block2-slide7 {
+        gap: 100px;
+    }
+
+    /* slide 8 */
+    .slide8 {
+        margin-left: 500px;
+    }
+
+    .block1-slide8 {
+        width: 670px;
+        margin-left: -400px;
+    }
+
+    .chart {
+        width: 700px;
+        margin-left: -120px;
+    }
+
+    .slide8-line-bottom {
+        width: 800px;
+    }
+
+    .slide8-line1-horiz {
+        width: 800px;
+    }
+
+    .slide8-line2-horiz {
+        width: 800px;
+    }
+
+    .slide8-line3-horiz {
+        width: 800px;
+    }
+
+    .question1-slide8 {
+        margin-left: 10px;
+    }
+
+    .question2-slide8 {
+        margin-left: 290px;
+        width: 110px;
+    }
+
+    .question3-slide8 {
+        margin-left: 565px;
+        width: 70px;
+    }
+
+    .end-text-slide8 {
+        display: none;
+    }
+
+    /* slide 9 */
+    .slide9 {
+        margin-left: 40px;
+    }
+
+    .wrapper9 {
+        display: none;
+    }
+
+    /* footer */
+    .foot {
+        margin-left: 150px;
+        height: 400px;
+        width: 2000px;
+    }
+
+    .block-authors-foot {
+        margin-left: -400px;
+        margin-right: 100px;
+    }
+
+    .block1-text-slide10 {
+        margin-left: 180px;
+    }
+
+    .block2-text-slide10 ul {
+        width: 300px;
+    }
+
+    .block-text-foot {
+        width: 160px;
+    }
+
+    .block3-text-slide10 {
+        margin-left: 190px;
+        width: 600px;
+    }
+}
+
+@media (max-width: 480px) {
+    .head {
+        margin-left: 650px;
+    }
+
+    /* slide 1 */
+    .slide1 {
+        margin-left: 100px;
+    }
+
+    /* slide 2 */
+    .slide2 {
+        margin-left: 100px;
+    }
+
+    .block1-text-slide2 {
+        width: 600px;
+    }
+
+    /* slide 4 */
+    .slide4 {
+        margin-left: 390px;
+    }
+
+    /* slide 5 */
+    .slide5 {
+        margin-left: 300px;
+    }
+
+    .phone-text1-slide5 {
+        width: 900px;
+        margin-left: -210px;
+    }
+
+    .phone-text2-slide5 {
+        width: 300px;
+    }
+
+    .block1-text-slide5 {
+        margin-left: 200px;
+    }
+
+    /* slide 6 */
+    .slide6 {
+        margin-left: 390px;
+    }
+
+    /* slide 7 */
+    .block2-slide7 {
+        margin-left: 315px;
+    }
+
+    /* slide 8 */
+    .chart {
+        margin-left: 30px;
+    }
+
+    /* slide 9 */
+    .slide9 {
+        margin-left: 405px;
+    }
+    /* footer */
+    .foot{
+        margin-left: 550px;
+        gap: 50px;
+    }
+    .block-text-foot{
+        margin-right: -35px;
+    }
+
+}
